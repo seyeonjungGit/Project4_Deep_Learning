@@ -1,0 +1,15 @@
+beautifulsoup4==4.10.0
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1625831749120/work
+cryptography @ file:///C:/ci/cryptography_1635348572149/work
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+selenium @ file:///C:/ci/selenium_1614268348533/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+soupsieve==2.3
+urllib3==1.26.7
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
